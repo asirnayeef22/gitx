@@ -98,4 +98,22 @@ What this allows you to do, for instance, is to display images that have
 changed. For example, if you want to show the new file from a diff, you can
 use something like
 
-	<img src="GitX://HEAD:Images/new_file.png">
+	<img src="GitX://HEAD:Images/new_file.png">                                                                                                                                       gfygrdfhserd  
+
+tr
+tr
+er
+er
+df
+tr
+
+ty
+
+
+
+y
+ty
+
+
+t
+tr
